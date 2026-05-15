@@ -1,6 +1,6 @@
-#Atividade Prática: Configuração Avançada de Servidor de Arquivos e Controle de Acesso no Debian CLI
+# Atividade Prática: Configuração Avançada de Servidor de Arquivos e Controle de Acesso no Debian CLI. Livia de Melo Pondian
 ---
-# 🖧 Configuração e Testes do Servidor Samba. Livia de Melo Pondian
+# 🖧 Configuração e Testes do Servidor Samba. 
 
 Este documento apresenta o processo completo de instalação, configuração e validação de um servidor Samba em ambiente Linux 🐧. O objetivo foi criar um sistema de compartilhamento de arquivos em rede com diferentes níveis de acesso para usuários específicos.
 
